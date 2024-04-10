@@ -30,3 +30,9 @@ Effective Java 내용을 읽고, 정리하는 스터디입니다.
 - Repository issue를 이용하여, QNA를 진행한다.
   ![image](https://github.com/SOPT-server/NOW-SOPT-effective-java/assets/128011308/5a0f8318-4815-43d6-9203-c22b2c1090f0)
 
+## 🤙 컨벤션
+ - 브랜치 전략 : 이름/주차 ex) 보람/1주차
+ - 폴더링 : 이름 - 주차로 구성 후 해당 폴더에 md파일을 추가한다.
+
+   ex) 보람-1주차-아이템1_생성자_대신_정적_팩토리_메소드를_고려하라.md
+
