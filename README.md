@@ -1,9 +1,9 @@
-# NOW SOPT Effective Java 스터디
+# NOW SOPT ffective Java 스터디
 
 Effective Java 내용을 읽고, 정리하는 스터디입니다.
 
 ## 💡 스터디원
-| [김보람](https://github.com/bo-ram-bo-ram) | [김태욱](https://github.com/Kim-TaeUk) |[윤정원](https://github.com/gardening-y) |[박상준](https://github.com/tkdwns414) |[도소현](https://github.com/sohyundoh) |[최윤한](https://github.com/unanchoi) |[최영린](https://github.com/0lynny) |
+| [김보람](https://github.com/bo-ram-bo-ram) | [김태욱](https://github.com/Kim-TaeUk) |[윤정원](https://github.com/gardening-y) |[박상준](https://github.com/tkdwns414) |[도소현](https://github.com/sohyundoh) |[유난](https://github.com/unanchoi) |[최영린](https://github.com/0lynny) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img width="250" alt="image" src="https://avatars.githubusercontent.com/u/128011308?s=400&u=8dfb03294d9243d92f149f043b4e6baab367a572&v=4" />|<img width="250" alt="image" src="https://avatars.githubusercontent.com/u/71974850?v=4" />|<img width="250" alt="image" src="https://avatars.githubusercontent.com/u/102401928?v=4" />|<img width="250" alt="image" src="https://avatars.githubusercontent.com/u/74230343?v=4" />|<img width="250" alt="image" src="https://avatars.githubusercontent.com/u/79795051?v=4" />|<img width="250" alt="image" src="https://avatars.githubusercontent.com/u/81692211?v=4" />|<img width="250" alt="image" src="https://avatars.githubusercontent.com/u/75068759?v=4" />|
 
